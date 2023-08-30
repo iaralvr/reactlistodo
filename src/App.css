@@ -1,0 +1,53 @@
+body{
+    background-color:#b7e4c7;
+    align-items: center;
+    text-align: center;
+    margin: 0%;
+}
+.tarefas{
+    list-style-type: none;
+}
+.rodape{
+    background-color: #d8f3dc;
+    margin: 0%;
+    padding: 0%;
+}
+.rodape2{
+    background-color: #d8f3dc;
+    margin-top: 35%;
+    padding: 0%;
+    position: absolute ;
+    bottom: 0%;
+    width: 100%;
+    height: 9%;
+  
+   
+}
+.principal{
+    background-color: #95d5b2;
+    border-radius: 15px;
+    
+    width: 50%;
+   margin: 0 auto;
+   
+
+}
+.tarefa{
+    background-color: #74c69d;
+    height: 30px;
+   
+  
+   
+}
+.principal li{
+    background-color: #74c69d;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    
+}
+ button{
+        background-color: transparent;
+        border: none;
+    }
